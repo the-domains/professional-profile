@@ -1,0 +1,14 @@
+layout_spectrum: 0.508678775979206
+typography_spectrum: 0.2753284287173301
+color:
+  brandStrength: 0.05733120860531926
+  lightness: 0.6864432576112449
+  saturation: 0.38264893065206707
+  rhythmicContrast: 0.27195040066726506
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+name: Professional profile
